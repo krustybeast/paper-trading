@@ -114,13 +114,6 @@ When a sale brings shares to 0, the stock is removed with `del portfolio["holdin
 - Used `.gitignore` to keep `portfolio.json` off GitHub while still sharing the code.
 - Committed in VS Code while also editing on GitHub, which caused "divergent branches". Now I sync before and after each session.
 
-## Ideas for later
-
-- Trade history log with dates and prices
-- Line chart of portfolio value over time
-- Leaderboard so friends can compete
-- A web version with buttons using `streamlit`
-
 ## Disclaimer
 
 This is a learning project using fake money. It's not financial advice, and it ignores fees, taxes and currency conversion.
